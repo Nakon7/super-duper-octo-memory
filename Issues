@@ -1,3 +1,7 @@
 One problem with the analysis is that it only accounts for inflation as an explanatory variable for the variabillity 
 in asset returns. It would be beneficial in the future to add other variables like the federal funds rate to see 
 if that explains more of the variability because as of right now the models are pretty limited. 
+
+It might also be beneficial to look into other benchmarks in technology or pharmaceuticals to see if they have a better 
+relationship with inflation. There are countless benchmark indexes that give insights into different asset classes so there
+are a lot more possible relationships. 
